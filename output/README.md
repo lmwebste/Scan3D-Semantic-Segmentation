@@ -1,0 +1,1 @@
+Directory in which output files will be placed; the actual directory can be controlled using the main invoking command, but if the output directory listed there does not already exist, the command will fail. As such, this serves as a default output location.

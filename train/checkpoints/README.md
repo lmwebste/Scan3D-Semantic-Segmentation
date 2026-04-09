@@ -1,0 +1,1 @@
+Directory in which the trained model .tar file should be placed. It is too large to put into this repository directly and so must be downloaded from this link: https://drive.google.com/file/d/17F43XiFFfF2gQ_jFnJnQ59V47LZAfORq/view?usp=drive_link
